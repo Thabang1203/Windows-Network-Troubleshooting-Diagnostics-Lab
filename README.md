@@ -16,11 +16,11 @@ The goal was to understand **what to test, why to test it, and how to interpret 
 
 ## Tools Used
 
-- `ipconfig /all`
-- `ping`
-- `nslookup`
-- `tracert`
-- `arp -a`
+- ipconfig /all
+- ping
+- nslookup
+- tracert
+- arp -a
 
 ## Troubleshooting Approach
 
