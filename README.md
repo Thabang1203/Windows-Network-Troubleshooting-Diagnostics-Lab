@@ -7,38 +7,39 @@ The goal was to understand what to test, why to test it, and how to interpret th
 
 Scenarios Covered
 
-DHCP & APIPA diagnostics
-DNS resolution
-Default gateway connectivity
-Connected but no internet
+DHCP & APIPA diagnostics,
+DNS resolution,
+Default gateway connectivity,
+Connected but no internet,
 IP address conflict investigation
 
-Tools Used
+Tools Used -
 
-ipconfig /all
-ping
-nslookup
-tracert
+ipconfig /all,
+ping,
+nslookup,
+tracert,
 arp -a
 
-Troubleshooting Approach
-Check IP configuration
-Test default gateway connectivity
-Test external network connectivity
-Test DNS resolution
-Trace the network path
-Test browser access
-Document findings and results
-Skills Demonstrated
-Windows 11 Troubleshooting
-TCP/IP & IPv4
-DHCP & APIPA
-DNS
-Default Gateways
-ARP & MAC Addressing
-Network Diagnostics
-L1 IT Support
-Fault Isolation
+Troubleshooting Approach - 
+
+Check IP configuration,
+Test default gateway connectivity,
+Test external network connectivity,
+Test DNS resolution,
+Trace the network path,
+Test browser access,
+Document findings and results,
+Skills Demonstrated,
+Windows 11 Troubleshooting,
+TCP/IP & IPv4,
+DHCP & APIPA,
+DNS,
+Default Gateways,
+ARP & MAC Addressing,
+Network Diagnostics,
+L1 IT Support,
+Fault Isolation,
 Technical Documentation
 
 Key Takeaway
